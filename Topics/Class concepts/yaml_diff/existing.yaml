@@ -1,0 +1,1686 @@
+Prestogram:
+  unlock-stickers-price: '0'
+alacarte-model:
+  cancel-purchase-popup-duration: 3
+  cancel-purchase-popup-enabled: false
+  id: a-la-carte
+  maximum-charge: 3.0
+  name: Premium Entertainment
+  pergame-price: 0.25
+  pos-id: 23221
+  show_kentucky_small_coin: false
+  title: "25\xA2 PER GAME"
+alt-content:
+  alt_content_1:
+    category-mapping:
+      All Games: 8
+      Videos: 1
+    content-id: epic_fails
+    content-type: Video
+    description: Epic Fails
+    display-name: Epic Fails
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable-epicfails-20200510.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: EpicFails.mp4
+    rectangular-icon-path: images/design/premiumcontent/launchdrawable-epicfails-20200510.png
+  alt_content_10:
+    enabled: false
+  alt_content_11:
+    enabled: false
+  alt_content_12:
+    enabled: false
+  alt_content_13:
+    enabled: false
+  alt_content_2:
+    category-mapping:
+      All Games: 12
+      Videos: 2
+    content-id: emoji_challenge
+    content-type: video
+    description: Guess the Movie
+    display-name: Guess the Movie Emoji Challenge
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-guessthemovieemojichallenge-20200510.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: GuessTheMovieEmojiChallenge.mp4
+  alt_content_3:
+    category-mapping:
+      All Games: 13
+      Videos: 3
+    content-id: extreme_sports
+    content-type: video
+    description: Extreme Sports
+    display-name: Extreme Sports Compilation
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-extremesports-20200510.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: ExtremeSportCompilation.mp4
+  alt_content_4:
+    category-mapping:
+      All Games: 14
+      Videos: 4
+    content-id: funniest_dogs_and_cats
+    content-type: video
+    description: Funniest Dogs and Cats
+    display-name: Funniest Dogs and Cats
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-funniestdogsandcats-20200510.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: FunniestDogsAndCats.mp4
+  alt_content_5:
+    category-mapping:
+      All Games: 16
+      Videos: 5
+    content-id: hidden_messages
+    content-type: video
+    description: Hidden Messages
+    display-name: Hidden Messages in Logos
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-hiddenmessagesinlogos-20200511.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: HiddenMessagesInLogos.mp4
+  alt_content_6:
+    category-mapping:
+      All Games: 18
+      Videos: 6
+    content-id: better_in_reverse
+    content-type: video
+    description: Better In Reverse
+    display-name: It's Better In Reverse
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-itsbetterinreverse-20200511.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: It_sBetterInReverse.mp4
+  alt_content_7:
+    category-mapping:
+      All Games: 20
+      Videos: 7
+    content-id: trick_football
+    content-type: video
+    description: Trick Football Plays
+    display-name: Outstanding Trick Football Plays
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-TrickFootballPlays-20200511.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: OutstandingTrickFootballPlays.mp4
+  alt_content_8:
+    category-mapping:
+      All Games: 22
+      Videos: 8
+    content-id: what_do_you_see
+    content-type: video
+    description: What Do You See
+    display-name: What Do You See
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable-whatdoyousee-20200511.png
+    package-location: videos/design/altcontent/alt_content_1/
+    package-name: WhatDoYouSee_.mp4
+  alt_content_9:
+    enabled: false
+game_cache:
+  client_enforce_check_before_games: true
+  client_game_cache_enable: false
+games:
+- display-name: Tricky Pictures
+  package-name: com.elacarte.game.trickypictures.pp
+- display-name: Tough Call
+  package-name: com.elacarte.game.toughcall.pp
+- display-name: Trivia Attack
+  package-name: com.elacarte.game.mvptriviaattack
+- display-name: Word Bombs
+  package-name: com.elacarte.game.wordbombs.pp
+- display-name: Memory
+  package-name: com.elacarte.game.memory.pp
+- display-name: Couples Quiz
+  package-name: com.elacarte.game.couplequizv2
+- display-name: Canvas
+  package-name: com.elacarte.game.canvas.pp
+- display-name: Olaf's Adventures
+  package-name: com.disneydigitalbooks.olafsbestdayever_amaFTU
+- display-name: 7D Mine Train
+  package-name: com.DisneyDigitalBooks.The7DMineTrain_AFTU
+- display-name: Tippy Wings
+  package-name: com.openmicgames.tippywings
+- display-name: Action Blox
+  package-name: com.yourcompany.Bloxorz
+- display-name: Tractor Crew
+  package-name: com.kuriusgames.tractorcrew
+games-page-2:
+  game_category_select_widget:
+    category_select_title_text: Categories
+    widget_enabled: true
+    widget_order: 8
+  home_promo_video_banner:
+    games_locked:
+      button_color: '#fffae90b'
+      button_font_path: /Roboto-Regular.ttf
+      button_text: play now
+      gradient_enabled: false
+      header-font-path: /Montserrat-Medium.ttf
+      header_text: All you can play. For $1.99
+      video_banner_path: video/design/homescreenbanner-MLPTransformers2.mp4
+    games_unlocked:
+      gradient_enabled: true
+      header-font-path: /Montserrat-Medium.ttf
+      header_text: Enjoy Presto games!
+      video_banner_path: video/design/homescreenbanner-locked-DE-20200407.mp4
+      video_enabled: true
+  home_widgets:
+    2 Players:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: true
+      widget_order: 4
+    All Games:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: false
+      widget_order: 7
+    Arcade:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: false
+      widget_order: 20
+    Casual:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: true
+      widget_order: 2
+    Kids:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: true
+      widget_order: 3
+    Puzzle:
+      GameCategorySelect_enabled: true
+      game_icons_shown: 8
+      widget_enabled: false
+      widget_order: 10
+    Top Games:
+      GameCategorySelect_enabled: false
+      game_icons_shown: 8
+      widget_enabled: true
+      widget_order: 1
+items:
+- back-color: '#FF313C'
+  category-drawable: images/design/premiumcontent/kids_category.png
+  currency-unlock-elc: '4'
+  html-game-enabled: false
+  is-timed: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/Category_topbar_kids.png
+  name: Kids
+  tags:
+  - isFeatured: false
+    name: category
+  - isFeatured: false
+    name: group
+  weight: 50
+- back-color: '#FF313C'
+  category-drawable: images/design/premiumcontent/all_games_category.png
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/games_big.png
+  feature-play-button-color: '#000000'
+  font: Roboto Condensed
+  free: false
+  home_feature-drawable: None
+  is-timed: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/games.png
+  name: All Games
+  tags:
+  - isFeatured: true
+    name: category
+    weight: 390
+  - name: group
+  weight: 120
+- back-color: '#81C8FD'
+  category-drawable: images/design/premiumcontent/2_players.png
+  currency-unlock-elc: '4'
+  feature-drawable: mages/design/premiumcontent/couples.png
+  font: Roboto Light
+  is-timed: false
+  isFeaturedAtHome: false
+  name: 2 Players
+  tags:
+  - isFeatured: true
+    name: category
+    weight: 400
+  - name: group
+  weight: 70
+- content-desc: Guide your bird through trees!
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/tippy_wings.png
+  name: Tippy Wings
+  package-name: com.openmicgames.tippywings
+  start-immediately: true
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 70
+  - isFeatured: false
+    name: app
+    weight: 60
+  - name: app
+    weight: 10
+  weight: 60
+- back-color: '#A2D902'
+  content-desc: Jigsaw Puzzles and more
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/cutiemonster_big.png
+  feature-play-button-color: '#000000'
+  free: false
+  home_feature-drawable: images/design/premiumcontent/cutie_monsters_home_featured.png
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/cutie_monsters.png
+  name: Cutie Monsters
+  package-name: com.littlephoenix.cutiemonsters100indie
+  start-immediately: true
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 90
+  - isFeatured: false
+    name: app
+    weight: 195
+  - isFeatured: false
+    name: Kids
+    weight: 70
+  weight: 40
+- back-color: '#A2D902'
+  content-desc: Take a photo and add stickers
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/prestogram_section_featured.png
+  feature-play-button-color: '#000000'
+  font: Roboto Condensed
+  free: false
+  home_feature-drawable: images/design/premiumcontent/prestogram_home_featured.png
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/prestogram.png
+  name: Prestogram
+  package-name: com.elacarte.game.mvpprestogram
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 100
+  - isFeatured: false
+    name: app
+    weight: 195
+  - isFeatured: false
+    name: Kids
+  weight: 80
+- back-color: '#A2D902'
+  content-desc: Prove how smart you are
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/trivia_section_featured.png
+  feature-play-button-color: '#000000'
+  font: Roboto Condensed
+  free: false
+  home_feature-drawable: images/design/premiumcontent/trivia_home_featured.png
+  isFeaturedAtHome: true
+  launch-drawable: images/design/premiumcontent/trivia_attack.png
+  name: Trivia Attack
+  package-name: com.elacarte.game.mvptriviaattack
+  start-immediately: false
+  tags:
+  - isFeatured: true
+    name: All Games
+    weight: 120
+  - isFeatured: false
+    name: app
+    weight: 190
+  - isFeatured: false
+    name: app
+    weight: 190
+  - name: app
+  weight: 800
+- content-desc: Test your date
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/canvas_big.png
+  feature-play-button-color: '#000000'
+  free: false
+  home_feature-drawable: None
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/couples_quiz.png
+  name: Couples Quiz
+  package-name: com.elacarte.game.couplequizv2
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 80
+  - isFeatured: false
+    name: 2 Players
+    weight: 50
+  - isFeatured: false
+    name: app
+    weight: 60
+- content-desc: Test your friends
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/canvas_big.png
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/Guesstimate.png
+  name: Friends Quiz
+  package-name: com.elacarte.game.guesstimatequiz
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 60
+  - isFeatured: false
+    name: app
+    weight: 380
+  - isFeatured: false
+    name: 2 Players
+    weight: 40
+- content-desc: Have your friends guess the word
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/canvas_big.png
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/word_bombs.png
+  name: Word Bombs
+  package-name: com.elacarte.game.wordbombs.pp
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 40
+  - isFeatured: false
+    name: app
+    weight: 370
+  - isFeatured: false
+    name: 2 Players
+    weight: 30
+- content-desc: Discuss topics with friends
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/tough_call.png
+  name: Tough Call
+  package-name: com.elacarte.game.toughcall.pp
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 10
+  - isFeatured: false
+    name: app
+    weight: 340
+  - isFeatured: false
+    name: 2 Players
+    weight: 10
+- content-desc: Choose the correct picture
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/trickypics.png
+  name: Tricky Pictures
+  package-name: com.elacarte.game.trickypictures.pp
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 20
+  - isFeatured: false
+    name: app
+    weight: 290
+  - isFeatured: false
+    name: Kids
+- back-color: '#A2D902'
+  content-desc: Find the matching pairs
+  currency-unlock-elc: '4'
+  font: Roboto Condensed
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/memory.png
+  name: Memory
+  package-name: com.elacarte.game.memory.pp
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 110
+  - isFeatured: false
+    name: app
+    weight: 290
+  - isFeatured: false
+    name: Kids
+    weight: 20
+  weight: 70
+- back-color: '#A2D902'
+  category-drawable: None
+  content-desc: Create your masterpiece
+  currency-unlock-elc: '4'
+  font: Roboto Condensed
+  free: false
+  is-timed: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/canvas.png
+  name: Paint Fun
+  package-name: com.elacarte.game.canvas.pp
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 50
+  - isFeatured: false
+    name: app
+    weight: 290
+  - isFeatured: false
+    name: Kids
+    weight: 60
+  weight: 70
+- back-color: '#A2D902'
+  category-drawable: None
+  content-desc: What __ are you?
+  currency-unlock-elc: '4'
+  font: Roboto Condensed
+  free: false
+  is-timed: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/presto_quizzes.png
+  name: Presto Quizzes
+  package-name: com.elacarte.game.mvpprestoquiz
+  start-immediately: false
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 30
+  - name: app
+  - name: 2 Players
+    weight: 20
+  weight: 80
+- content-desc: Match and build a robot buddy
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/robobuddies_icon.png
+  name: Robo Buddies
+  package-name: com.duckiedeck.Robots
+  start-immediately: true
+  tags:
+  - isFeatured: false
+    name: All Games
+    weight: 140
+  - name: app
+  - name: Kids
+    weight: 90
+- content-desc: Create fun sandwich art
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/sandwichchef_icon.png
+  name: Sandwich Chef
+  package-name: com.duckiedeck.SandwichChef
+  start-immediately: true
+  tags:
+  - name: All Games
+    weight: 150
+  - name: app
+  - name: Kids
+    weight: 100
+- content-desc: Tumble through the mazes
+  currency-unlock-elc: '4'
+  free: false
+  home_feature-drawable: images/design/premiumcontent/actionblox_home_featured.png
+  isFeaturedAtHome: true
+  launch-drawable: images/design/premiumcontent/actionblox_icon.png
+  name: Action Blox
+  package-name: com.yourcompany.Bloxorz
+  start-immediately: true
+  tags:
+  - name: All Games
+    weight: 170
+  - name: app
+  - name: Kids
+    weight: 50
+  weight: 600
+- content-desc: Chirp Chirp! Design & decorate
+  currency-unlock-elc: '4'
+  free: false
+  isFeaturedAtHome: false
+  launch-drawable: images/design/premiumcontent/birdhouses_icon.png
+  name: Birdhouses
+  package-name: com.duckiedeck.birdHouses
+  start-immediately: true
+  tags:
+  - name: All Games
+    weight: 130
+  - name: app
+  - name: Kids
+    weight: 80
+- content-desc: Mind-bending puzzles
+  currency-unlock-elc: '4'
+  free: false
+  home_feature-drawable: images/design/premiumcontent/tractorcrew_home_featured.png
+  isFeaturedAtHome: true
+  launch-drawable: images/design/premiumcontent/tractorcrew_icon.jpg
+  name: Tractor Crew
+  package-name: com.kuriusgames.tractorcrew
+  start-immediately: true
+  tags:
+  - name: All Games
+    weight: 160
+  - name: app
+  - name: Kids
+    weight: 30
+  weight: 700
+- content-desc: Help Olaf save the day!
+  currency-unlock-elc: '4'
+  feature-drawable: images/design/premiumcontent/olafsection_featured.png
+  home_feature-drawable: images/design/premiumcontent/olafcarousel_featured.png
+  isFeaturedAtHome: true
+  launch-drawable: images/design/premiumcontent/launchdrawable_olaf.png
+  name: Olaf's Adventures
+  package-name: com.disneydigitalbooks.olafsbestdayever_amaFTU
+  start-immediately: true
+  tags:
+  - name: All Games
+    weight: 190
+  - name: app
+  - isFeatured: true
+    name: Kids
+    weight: 120
+  weight: 1000
+- content-desc: Twist & turn over the tracks
+  currency-unlock-elc: '4'
+  home_feature-drawable: images/design/premiumcontent/7dcarousel_featured.png
+  isFeaturedAtHome: true
+  launch-drawable: images/design/premiumcontent/launchdrawable_7dminetrain.png
+  name: 7D Mine Train
+  package-name: com.DisneyDigitalBooks.The7DMineTrain_AFTU
+  start-immediately: true
+  tags:
+  - name: app
+  - name: All Games
+    weight: 180
+  - name: Kids
+    weight: 110
+  weight: 900
+- content-desc: Match 3 - dig up a fortune! Remove the matching groups of blocks and
+    gather gold nuggets for Jack.
+  currency-unlock-elc: '4'
+  html-game-enabled: true
+  html-game-file-url: gold-rush-2-treasure-hunt/index.html
+  launch-drawable: images/design/premiumcontent/launchdrawable_goldrush.png
+  name: Gold Rush Treasure Hunt
+  package-name: elacarte.htmlgamerunner
+  start-immediately: true
+  tags:
+  - name: app
+  - name: All Games
+    weight: 220
+  - name: Kids
+    weight: 140
+  weight: 1000
+- content-desc: It's you and the clock. Twist and shuffle the letters to make as many
+    words as you can.
+  currency-unlock-elc: '4'
+  html-game-enabled: true
+  html-game-file-url: text_twist_2/index.html
+  launch-drawable: images/design/premiumcontent/launchdrawable_texttwist2.png
+  name: Text Twist 2
+  package-name: elacarte.htmlgamerunner
+  start-immediately: true
+  tags:
+  - name: app
+  - name: All Games
+    weight: 200
+  - name: Kids
+    weight: 130
+  weight: 1100
+- content-desc: It's you and the clock. Twist and shuffle the letters to make as many
+    words as you can.
+  currency-unlock-elc: '4'
+  html-game-enabled: true
+  html-game-file-url: text_twist_2/index.html
+  launch-drawable: images/design/premiumcontent/launchdrawable_texttwist2.png
+  name: Text Twist 2
+  package-name: elacarte.htmlgamerunner
+  start-immediately: true
+  tags:
+  - name: app
+  - name: All Games
+    weight: 200
+  - name: Kids
+    weight: 130
+  weight: 1100
+monetization-models:
+- allow-cancellation: true
+  bought-text: Unlimited Games
+  id: unlock-elc
+  maximum-charge: 1.99
+  name: Unlock Presto Games
+  num-free-games: 0
+  pos-id: 36047
+  title: Unlock Games
+  upsell-action-button-down-image: images/design/revenue/base_paywall_button_down.png
+  upsell-action-button-image: images/design/revenue/base_paywall_button.png
+  upsell-pay-wall-image: images/design/revenue/base_paywall.png
+  uses-big-background: false
+- allow-cancellation: false
+  bought-text: All Disney Unlocked
+  id: unlock-disney
+  maximum-charge: 2.99
+  name: Unlock Disney
+  num-free-games: 0
+  pos-id: 34564
+  title: Unlock Disney
+  upsell-action-button-down-image: images/design/revenue/disney_pay_button_down.png
+  upsell-action-button-image: images/design/revenue/disney_paywall_button.png
+  upsell-pay-wall-image: images/design/revenue/disney_base_paywall.png
+  uses-big-background: true
+- allow-cancellation: false
+  bought-text: All Toons Unlocked
+  id: unlock-toons
+  maximum-charge: 1.99
+  name: Unlock Toons
+  num-free-games: 0
+  pos-id: 35463
+  title: Unlock All toons
+  upsell-action-button-down-image: images/design/revenue/toons_action_button_down.png
+  upsell-action-button-image: images/design/revenue/toons_action_button.png
+  upsell-pay-wall-image: images/design/revenue/toons_paywall.png
+  uses-big-background: false
+paywall:
+  cancel-button-layout:
+    image-first: false
+    x: 1000
+    y: 91
+  cancel-button-text: Cancel $1.99 purchase
+  cancel-content-descriptive-text: Activating this button will hide the pop-up
+  cancel-image-url: images/design/paywall/cancel_whitex.png
+  main-content-descriptive-text: This is an image related to purchasing games
+  main-image-url: images/design/paywall/configurablePaywall.png
+  purchase-button-layout:
+    h: 176
+    w: 561
+    x: 152
+    y: 296
+  purchase-content-descriptive-text: purchase content descriptive text
+premium-content-categories:
+  2 Players:
+    category-banner-path: images/design/premiumcontent/categorydrawable_friendsquiz_2players_20160108.png
+    enabled: true
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 6
+  All Games:
+    category-banner-path: images/design/premiumcontent/categorydrawable_MLP_Transformers.png
+    enabled: true
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 2
+  Arcade:
+    category-banner-path: images/design/premiumcontent/categorydrawable_tippywings_arcade_20160108.png
+    enabled: false
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 5
+  Casual:
+    category-banner-path: images/design/premiumcontent/categorydrawable_prestotrivia_casual.png
+    enabled: true
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 3
+  Disney:
+    category-banner-path: images/design/premiumcontent/categorydrawable_tsumtsumjackjack_20190226.png
+    enabled: false
+    free: false
+    ranking: 4
+  Kids:
+    category-banner-path: images/design/premiumcontent/categorybanner_sandwichchef_kids_20190405.png
+    enabled: true
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 4
+  Marvel:
+    category-banner-path: images/design/premiumcontent/categorydrawable_marvel_4heroes2_20191113.png
+    enabled: false
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 1
+  Puzzle:
+    category-banner-path: images/design/premiumcontent/categorydrawable_goldrush_allgames_20160108.png
+    enabled: false
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 6
+  Puzzle/Arcade:
+    category-banner-path: images/design/premiumcontent/categorydrawable_asi_allgames.png
+    enabled: true
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 5
+  Videos:
+    category-banner-path: images/design/premiumcontent/categorydrawable_videos_test_1_20200522.png
+    enabled: true
+    free: false
+    purchase-button-x: 735
+    purchase-button-y: 190
+    ranking: 2
+premium-content-games:
+  7D Mine Train:
+    category-mapping:
+      All Games: 2
+      Arcade: 1
+      Kids: 2
+      Puzzle/Arcade: 5
+    description: Pilot your favorite dwarf on their special cart through twisting,
+      turning mine train tracks and collect jewels along the way.
+    display-name: 7D Mine Train
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_7dminetrain.png
+    package-name: com.DisneyDigitalBooks.The7DMineTrain_AFTU
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Action Blox:
+    category-mapping:
+      All Games: 10
+      Top Games: 15
+    description: Tumble the block through mind-twisting mazes.
+    display-name: 'Action Blox '
+    enabled: true
+    exit-button:
+      left: false
+      top: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_actionblox.png
+    package-name: com.yourcompany.Bloxorz
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-actionblox-20200402.png
+  Avengers Hydra Dash:
+    display-name: Avengers Hydra Dash
+    enabled: false
+  Avengers Personality Quiz:
+    display-name: Avengers Personality Quiz
+    enabled: false
+  Avengers Tactics:
+    display-name: Avengers Tactics
+    enabled: false
+    html-game-file-url: av_avengers_tactics/index.html
+    package-name: elacarte.htmlgamerunner
+  B-Dubs Gamebreak:
+    display-name: B-Dubs Gamebreak
+    enabled: false
+  Beauty and the Books:
+    display-name: Beauty and the Books
+  Beer App:
+    display-name: Beer App
+  Bejeweled 2:
+    display-name: Bejeweled 2
+  Birdhouses:
+    category-mapping:
+      All Games: 75
+      Kids: 10
+      Puzzle/Arcade: 35
+    description: 'Design & decorate! Use your talent to personalize shelters for a
+      fluffy songbird in need of a home. '
+    display-name: Birdhouses
+    enabled: true
+    exit-button:
+      left: false
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_birdhouses.png
+    package-name: com.duckiedeck.birdHouses
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-birdhouses-20200407.png
+  Black Panther Vibranium:
+    display-name: Black Panther Vibranium
+    enabled: false
+  Bumblebee:
+    category-mapping:
+      Puzzle/Arcade: 2
+    display-name: 'Transformers: Bumblebee'
+    enabled: false
+    exit-button-delay-millis: 11000
+    launch-image-path: images/design/premiumcontent/launchdrawable_bumblebee.png
+    package-name: com.budgestudios.googleplay.presto.TransformersBumblebeeOverdrive
+  Captain Marvel:
+    display-name: Captain Marvel
+  Care Bears Love to Learn:
+    category-mapping:
+      All Games: 20
+      Kids: 10
+      Puzzle/Arcade: 7
+    description: Play along with your favorite Care Bears in a series of fun and educational
+      mini games and puzzles. Count, identify colors, shapes, and letters, play memory
+      games, and much more!
+    display-name: Care Bears Love to Learn
+    enabled: false
+    exit-button:
+      left: true
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_carebearslovetolearn.jpg
+    package-name: com.agpbrands.carebears.lovetolearn.elacarte
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Catapult King:
+    display-name: Catapult King
+  Couples Quiz:
+    category-mapping:
+      2 Players: 5
+      All Games: 30
+    description: How much does your partner know about you? Test your date with inquisitive
+      questions.
+    display-name: Couples Quiz
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_couplesquiz.png
+    package-name: com.elacarte.game.couplequizv2
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-couplesquiz-20200409.png
+  Cutie Monsters:
+    category-mapping:
+      All Games: 120
+      Kids: 20
+      Puzzle/Arcade: 15
+    description: Great for little ones. Practice counting from 1-10 and complete the
+      jigsaw puzzles!
+    display-name: Cutie Monsters
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_cutiemonsters.png
+    package-name: com.littlephoenix.cutiemonsters100indie
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-cutiemonsters-20200402.png
+  Delicious Emily's:
+    category-mapping:
+      All Games: 65
+      Casual: 10
+      Top Games: 30
+    description: 'The restaurant is in your hands. Help Emily balance work and family
+      in this popular time management game.  '
+    display-name: 'Delicious: Emily''s New Beginning'
+    enabled: true
+    html-game-file-url: Delicious_Emilys_New_Beginning/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_emily.png
+    package-name: elacarte.htmlgamerunner
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-deliciousemily-20200402.png
+  Disney Jack:
+    category-mapping:
+      All Games: 6
+      Disney: 3
+    display-name: Disney Jack-Jack of All Trades
+    enabled: false
+    exit-button:
+      left: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_jackjackofalltrades.png
+    package-name: com.creativetechnology.jackjackofalltrades.glesjs
+  Drag Racing Rivals:
+    category-mapping:
+      All Games: 11
+      Puzzle/Arcade: 3
+      Top Games: 35
+    description: Outrun your street racing rivals!
+    display-name: Drag Racing Rivals
+    enabled: true
+    exit-button:
+      vertical-margin: 100
+    exit-button-delay-millis: 11000
+    launch-image-path: images/design/premiumcontent/launchdrawable_dragracingrivals.png
+    package-name: sk.inlogic.dragracingrivals
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-dragracingrivals-20200407.png
+  Dragon Drop:
+    description: Dragon Drop
+  Fast 21:
+    category-mapping:
+      All Games: 9
+      Arcade: 5
+      Casual: 3
+    description: 'The fastest card game in town! How many 21''s can you get? '
+    display-name: Fast 21
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_fast21.png
+    package-name: com.elacarte.game.fast21
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-fast21-20200408.png
+  Flip:
+    category-mapping:
+      All Games: 18
+      Puzzle/Arcade: 6
+    description: A fast-paced jumper where you collect stars in the best time possible.
+    display-name: Flip
+    enabled: false
+    exit-button:
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_flip.png
+    package-name: sk.inlogic.flip
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Flying Fox:
+    display-name: Flying Fox
+  Friends Quiz:
+    category-mapping:
+      2 Players: 30
+      All Games: 80
+      Puzzle/Arcade: 30
+      Top Games: 40
+    description: Do you really know your friends? Take the quiz to find out.
+    display-name: 'Friends Quiz '
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_friendsquiz.png
+    package-name: com.elacarte.game.guesstimatequiz
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-friendsquiz-20200409.png
+  Funfair Games:
+    category-mapping:
+      All Games: 8
+      Arcade: 2
+      Kids: 8
+    description: Arcade fun! Play six different carnival themed mini-games.
+    display-name: Funfair Games
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_funfairgames.png
+    package-name: de.keffel.funfairgames
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-funfairgames-20200402.png
+  Gold Rush:
+    category-mapping:
+      All Games: 90
+      Arcade: 55
+      Casual: 15
+      Puzzle: 60
+      Puzzle/Arcade: 1
+    description: '"Match 3 - dig up a fortune! Remove the matching groups of blocks
+      and gather gold nuggets for Jack."'
+    display-name: 'Gold Rush Treasure Hunt '
+    enabled: true
+    html-game-file-url: gold-rush-2-treasure-hunt/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_goldrush.png
+    package-name: elacarte.htmlgamerunner
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-goldrush-20200402.png
+  Green Goblin Havoc:
+    display-name: Green Goblin Havoc
+  Guardians of the Galaxy:
+    display-name: Guardians of the Galaxy
+    enabled: false
+  Hidden Objects:
+    category-mapping:
+      All Games: 13
+      Casual: 7
+    description: Help Mrs. Smith find the hidden objects for her clients and become
+      the best thief in the town!
+    display-name: 'Hidden Objects: Thief''s Mystery'
+    enabled: false
+    exit-button:
+      left: false
+    exit-button-delay-millis: 7000
+    launch-image-path: images/design/premiumcontent/launchdrawable_hiddenobjectsthiefsmystery.png
+    package-name: sk.inlogic.hiddenobjects
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Hill Climb Mania:
+    display-name: Hill Climb Mania
+  Hulk Chitauri Takedown:
+    display-name: Hulk Chitauri Takedown
+    enabled: false
+  Incredible Jack:
+    enabled: false
+  Iron Man Quiz:
+    enabled: false
+    html-game-file-url: av_ironman_quiz/index.html
+    package-name: elacarte.htmlgamerunner
+  Kids Zoo Day 2:
+    category-mapping:
+      All Games: 15
+      Kids: 1
+    description: Gorgeous animals jigsaw for the kids and parents.
+    display-name: Kids Zoo Day 2
+    enabled: true
+    exit-button:
+      top: false
+    exit-button-delay-millis: 7000
+    launch-image-path: images/design/premiumcontent/launchdrawable_kidszooday2.png
+    package-name: sk.inlogic.kidszooday2
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-kidszooday2-20200407.png
+  Memory:
+    category-mapping:
+      All Games: 70
+      Kids: 80
+      Top Games: 20
+    description: 'Test your memory and find the matching pairs. '
+    display-name: Memory
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_memory.png
+    package-name: com.elacarte.game.memory.pp
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-memory-20200402.png
+  My Little Pony:
+    category-mapping:
+      All Games: 1
+      Kids: 6
+    description: My Little Pony
+    display-name: My Little Pony Harmony Quest
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_mylittlepony.png
+    package-name: com.budgestudios.googleplay.presto.MyLittlePonyHarmonyQuest
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-MLP-20210409.png
+  Olaf's Adventures:
+    category-mapping:
+      All Games: 1
+      Kids: 1
+    description: It's "Frozen Fever" fun! Help Olaf save Anna's Birthday\ \ cake from
+      a parade of hungry snowgies.
+    display-name: Olaf's Adventures
+    enabled: false
+    exit-button:
+      left: false
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_olaf.png
+    package-name: com.disneydigitalbooks.olafsbestdayever_amaFTU
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Paint Fun:
+    category-mapping:
+      All Games: 35
+      Casual: 25
+      Kids: 35
+    description: 'Draw and paint to create your own masterpiece. '
+    display-name: Paint Fun
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_paintfun.png
+    package-name: com.elacarte.game.canvas.pp
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-paintfun-20200408.png
+  Pet Fish Rescue:
+    category-mapping:
+      All Games: 40
+    description: Help unite baby fish with mommy fish!
+    display-name: Pet Fish Rescue
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_petfishrescue.jpg
+    package-name: com.kuriusgames.petfishrescue
+  Photo Hunt:
+    category-mapping:
+      All Games: 23
+      Puzzle: 50
+    description: Review the pictures and spot the differences before the timer runs
+      out.
+    display-name: Photo Hunt
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_photohunt.png
+    package-name: com.elacarte.game.photohunt
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-photohunt-20200408.png
+  Presto Budge:
+    description: Presto Budge
+    display-name: Presto Budge
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: com.BudgeStudios.Presto_Test_Build
+  Presto Quizzes:
+    category-mapping:
+      2 Players: 15
+      All Games: 105
+    description: What _ are you? Take the quizzes and find out!
+    display-name: Presto Quizzes
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_quizzes.png
+    package-name: com.elacarte.game.mvpprestoquiz
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-twistyride-20200407.png
+  Presto Trivia:
+    category-mapping:
+      All Games: 5
+      Casual: 5
+    description: 'Join the Applebee''s community and play this new, social game together. '
+    display-name: "Presto Trivia\r\n(Multiplayer)"
+    enabled: true
+    exit-button:
+      left: true
+      top: false
+    interruptible: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_prestotrivia.png
+    package-name: air.com.yamyam.Trivia
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-prestotrivia-20200406.png
+  Prestogram:
+    category-mapping:
+      All Games: 55
+      Casual: 15
+    description: Cheese! Take a photo of yourself and your friends at the table, add
+      stickers and email it home.
+    display-name: Prestogram
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_prestogram.png
+    package-name: com.elacarte.game.mvpprestogram
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-prestogram-20200408.png
+  Recipe Rush:
+    description: Recipe Rush
+    display-name: Recipe Rush
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: com.RedLobster.RecipeRush
+  Robo Buddies:
+    category-mapping:
+      All Games: 95
+      Kids: 15
+    description: 'Assemble a new friend for Bolt. Uncover each scene and find the
+      matching pieces to build a new robot buddy. '
+    display-name: Robo Buddies
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_robobuddies.png
+    package-name: com.duckiedeck.Robots
+  Sandwich Chef:
+    category-mapping:
+      All Games: 45
+      Kids: 5
+      Puzzle/Arcade: 40
+      Top Games: 25
+    description: Create funny faces and playful shapes, using fresh and tasty ingredients.
+      Devour your snack and play again!
+    display-name: Sandwich Chef
+    enabled: true
+    exit-button:
+      left: true
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_sandwichchef.png
+    package-name: com.duckiedeck.SandwichChef
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-sandwichchef-20200407.png
+  Sidekick Cycle:
+    category-mapping:
+      All Games: 5
+      Arcade: 2
+    description: 'Race your cycle at top speed through difficult terrain filled with
+      gravity bending jumps. '
+    display-name: Sidekick Cycle
+    enabled: false
+    exit-button:
+      left: false
+      top: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_sidekickcycle.png
+    package-name: com.itmattersgames.bikexpress
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Smashy Bricks:
+    category-mapping:
+      All Games: 9
+      Arcade: 1
+      Kids: 30
+      Puzzle/Arcade: 5
+      Top Games: 10
+    description: "Draw trampolines to bounce \u201Csmashies\u201D at brick formations.\
+      \ Help Flamey and his friends destroy the galaxy, brick by brick! "
+    display-name: 'Smashy Brick '
+    enabled: true
+    exit-button:
+      left: false
+      top: true
+    interruptible: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_smashybrick.png
+    package-name: com.bulldozergames.smashybrickELACARTE
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-smashybrick-20200402.png
+  Star Drives 2:
+    category-mapping:
+      All Games: 19
+      Casual: 9
+    description: Fly your spaceship and survive as long as you can.
+    display-name: Star Drives 2
+    enabled: false
+    exit-button-delay-millis: 7000
+    launch-image-path: images/design/premiumcontent/launchdrawable_stardrives2.png
+    package-name: sk.inlogic.stardrives2
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Tennis Pro 2019:
+    category-mapping:
+      All Games: 17
+      Puzzle/Arcade: 4
+    description: Play the game and become a legend!
+    display-name: Tennis Pro 2019
+    enabled: false
+    exit-button-delay-millis: 11000
+    launch-image-path: images/design/premiumcontent/launchdrawable_tennispro2019.png
+    package-name: sk.inlogic.tennispro2019
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Text Twist 2:
+    category-mapping:
+      All Games: 110
+      Puzzle: 25
+    description: 'It''s you and the clock. Twist and shuffle the letters to make as
+      many words as you can. '
+    display-name: 'Text Twist 2 '
+    enabled: true
+    html-game-file-url: text_twist_2/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_texttwist2.png
+    package-name: elacarte.htmlgamerunner
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-texttwist2-20200402.png
+  Tippy Wings:
+    category-mapping:
+      All Games: 60
+      Arcade: 35
+      Kids: 40
+    description: Guide your little companion through trees and obstacles and try to
+      get the best score possible!
+    display-name: Tippy Wings
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_tippywings.png
+    package-name: com.openmicgames.tippywings
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-tippywings-20200402.png
+  Tough Call:
+    category-mapping:
+      2 Players: 20
+      All Games: 125
+    description: What do you and your friends think? Discuss and answer interesting
+      topics to find out.
+    display-name: Tough Call
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_toughcal.png
+    package-name: com.elacarte.game.toughcall.pp
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-toughcall-20200402.png
+  Tractor Crew:
+    category-mapping:
+      All Games: 8
+      Kids: 25
+      Puzzle: 20
+      Puzzle/Arcade: 10
+      Top Games: 5
+    description: Control different tractors and trucks through challenging levels
+      and clean the environment of toxic waste!
+    display-name: Tractor Crew
+    enabled: true
+    exit-button:
+      left: false
+      top: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_tractorcrew.jpg
+    package-name: com.kuriusgames.tractorcrew
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-tractorcrew-20200407.png
+  Tricky Pictures:
+    category-mapping:
+      2 Players: 10
+      All Games: 100
+      Puzzle/Arcade: 20
+    description: Show what you know by guessing the correct picture and receive the
+      results.
+    display-name: Tricky Pictures
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_trickypictures.png
+    package-name: com.elacarte.game.trickypictures.pp
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-trickypictures-20200402.png
+  Trivia Attack:
+    category-mapping:
+      All Games: 3
+      Casual: 2
+    description: Multiple categories; thousands of questions - compete against the
+      clock to prove your knowledge.
+    display-name: Trivia Attack
+    enabled: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_trivia.png
+    package-name: com.elacarte.game.mvptriviaattack
+    rectangular-icon-path: images/design/premiumcontent/trivia-attack-rectangular-1.png
+  Tsum Tsum:
+    category-mapping:
+      All Games: 8
+      Disney: 4
+    display-name: Disney Tsum Tsum Mix
+    enabled: false
+    exit-button:
+      left: false
+    launch-image-path: images/design/premiumcontent/launchdrawable_tsumtsummix.png
+    package-name: com.creativetechnology.disneytsumtsummix.glesjs
+  Word Bombs:
+    category-mapping:
+      2 Players: 25
+      All Games: 115
+    description: 'Give your friends clues to help them guess the word. '
+    display-name: Word Bombs
+    enabled: true
+    launch-image-path: images/design/premiumcontent/launchdrawable_wordbombs.png
+    package-name: com.elacarte.game.wordbombs.pp
+    rectangular-icon-path: images/design/premiumcontent/rectangularicondrawable-wordbombs-20200402.png
+  av_antman_wasp_robot:
+    category-mapping:
+      Marvel: 45
+    description: av_antman_wasp_robot
+    display-name: Ant-Man & The Wasp Robot Attack
+    enabled: false
+    exit-button:
+      left: true
+      top: false
+    exit-button-delay-millis: 11000
+    html-game-file-url: av_antman_wasp_robot/index.html
+    launch-image-path: images/design/premiumcontent/01-marvelhq-gameicon-antmanwasp_attackoftherobots-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_avengers_personality_quiz:
+    category-mapping:
+      Marvel: 25
+    description: av_avengers_personality_quiz
+    display-name: Which Avenger Are You?
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: av_avengers_personality_quiz/index.html
+    launch-image-path: images/design/premiumcontent/12-marvelhq-gameicon-avengers_whichavengerareyou-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_avengers_tactics:
+    category-mapping:
+      Marvel: 1
+    description: av_avengers_tactics
+    display-name: Avengers Tactics
+    enabled: false
+    exit-button:
+      left: false
+      top: true
+    html-game-file-url: av_avengers_tactics/index.html
+    launch-image-path: images/design/premiumcontent/02-marvelhq-gameicon-avengers_tactics-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_blackpanther_vibranium:
+    category-mapping:
+      Marvel: 30
+    description: av_blackpanther_vibranium
+    display-name: 'Black Panther: Vibranium Hunt'
+    enabled: false
+    exit-button:
+      left: false
+      top: true
+    html-game-file-url: av_blackpanther_vibranium/index.html
+    launch-image-path: images/design/premiumcontent/03-marvelhq-gameicon-blackpanther_vibraniumhunt-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_captainmarvel:
+    description: av_captainmarvel
+    display-name: 'Captain Marvel: Galactic Flight'
+    enabled: false
+    html-game-file-url: av_captainmarvel/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  av_hulk_chitauritakedown:
+    category-mapping:
+      Marvel: 20
+    description: av_hulk_chitauritakedown
+    display-name: Incredible Hulk Chitauri Takedown
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: av_hulk_chitauritakedown/index.html
+    launch-image-path: images/design/premiumcontent/09-marvelhq-gameicon-hulk_chitauritakedown-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_ironman_quiz:
+    category-mapping:
+      Marvel: 15
+    description: av_ironman_quiz
+    display-name: How Well Do You Know Iron Man?
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: av_ironman_quiz/index.html
+    launch-image-path: images/design/premiumcontent/06-marvelhq-gameicon-ironman_howwelldoyouknow-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_ironman_ultron:
+    category-mapping:
+      Marvel: 55
+    description: av_ironman_ultron
+    display-name: 'Iron Man: Rise of Ultron'
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    exit-button-delay-millis: 11000
+    html-game-file-url: av_ironman_ultron/index.html
+    launch-image-path: images/design/premiumcontent/08-marvelhq-gameicon-ironman_riseofultron-512x512.png
+    package-name: elacarte.htmlgamerunner
+  av_thor_hammertoss:
+    description: av_thor_hammertoss
+    display-name: 'Thor: Frost Giant Frenzy'
+    enabled: false
+    html-game-file-url: av_thor_hammertoss/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  gg_defend_galaxy:
+    description: gg_defend_galaxy
+    display-name: Defend Galaxy
+    enabled: false
+    html-game-file-url: gg_defend_galaxy/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  gg_legendary_relics:
+    category-mapping:
+      Marvel: 10
+    description: gg_legendary_relics
+    display-name: 'Guardians: The Legendary Relics'
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: gg_legendary_relics/index.html
+    launch-image-path: images/design/premiumcontent/04-marvelhq-gameicon-guardians_legendaryrelics-512x512.png
+    package-name: elacarte.htmlgamerunner
+  mr_msmarvel_quiz:
+    category-mapping:
+      Marvel: 40
+    description: mr_msmarvel_quiz
+    display-name: How Well Do You Know Ms. Marvel?
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: mr_msmarvel_quiz/index.html
+    launch-image-path: images/design/premiumcontent/07-marvelhq-gameicon-msmarvel_howwelldoyouknow-512x512.png
+    package-name: elacarte.htmlgamerunner
+  mr_secretwarriors_personality_quiz:
+    description: mr_secretwarriors_personality_quiz
+    display-name: Which Secret Warrior Are You?
+    enabled: false
+    html-game-file-url: mr_secretwarriors_personality_quiz/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  mr_squirrelgirl_quiz:
+    description: mr_squirrelgirl_quiz
+    display-name: How Well Do You Know Squirrel Girl?
+    enabled: false
+    html-game-file-url: mr_squirrelgirl_quiz/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  sm_epicbattles:
+    category-mapping:
+      Marvel: 5
+    description: sm_epicbattles
+    display-name: 'Spider-Man: Epic Battles'
+    enabled: false
+    exit-button:
+      left: false
+      top: false
+      vertical-margin: 40
+    html-game-file-url: sm_epicbattles/index.html
+    launch-image-path: images/design/premiumcontent/10-marvelhq-gameicon-spiderman_epicbattles-512x512.png
+    package-name: elacarte.htmlgamerunner
+  sm_greengoblin_havoc:
+    description: sm_greengoblin_havoc
+    display-name: 'Spider-Man: Green Goblin Havoc'
+    enabled: false
+    html-game-file-url: sm_greengoblin_havoc/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  sm_laboratorylockdown:
+    category-mapping:
+      Marvel: 50
+    description: sm_laboratory_lockdown
+    display-name: 'Spider-Man: Lab Lockdown'
+    enabled: false
+    exit-button:
+      left: true
+      top: false
+    html-game-file-url: sm_lab_lockdown/index.html
+    launch-image-path: images/design/premiumcontent/05-marvelhq-gameicon-spiderman_laboratorylockdown-512x512.png
+    package-name: elacarte.htmlgamerunner
+  sm_personality_quiz:
+    description: sm_personality_quiz
+    display-name: Which Web Warrior Are You?
+    enabled: false
+    html-game-file-url: sm_personality_quiz/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+  sm_venom_vengeance:
+    category-mapping:
+      Marvel: 35
+    description: sm_venom_vengeance
+    display-name: Venom's Vengeance
+    enabled: false
+    exit-button:
+      left: true
+      top: true
+    html-game-file-url: sm_venom_vengeance/index.html
+    launch-image-path: images/design/premiumcontent/11-marvelhq-gameicon-spiderman_venomsvengeance-512x512.png
+    package-name: elacarte.htmlgamerunner
+  sm_wallcrawler:
+    description: sm_wallcrawler
+    display-name: 'Spider-Man: Wall Crawler'
+    enabled: false
+    html-game-file-url: sm_wallcrawler/index.html
+    launch-image-path: images/design/premiumcontent/launchdrawable_Generic.png
+    package-name: elacarte.htmlgamerunner
+premium-items:
+- cost: 5.55
+  display-name: glasses01
+  id: '0201'
+- cost: 5.55
+  display-name: glasses02
+  id: '0202'
+- cost: 5.55
+  display-name: glasses03
+  id: '0203'
+- cost: 5.55
+  display-name: glasses04
+  id: '0204'
+- cost: 5.55
+  display-name: glasses05
+  id: '0205'
+- cost: 5.55
+  display-name: glasses06
+  id: '0206'
+- cost: 5.55
+  display-name: glasses07
+  id: '0207'
+- cost: 5.55
+  display-name: hat01
+  id: '0301'
+- cost: 5.55
+  display-name: hat02
+  id: '0302'
+- cost: 5.55
+  display-name: hat03
+  id: '0303'
+- cost: 5.55
+  display-name: hat04
+  id: '0304'
+- cost: 5.55
+  display-name: moustache01
+  id: '0701'
+- cost: 5.55
+  display-name: moustache02
+  id: '0702'
+- cost: 5.55
+  display-name: moustache03
+  id: '0703'
+- cost: 5.55
+  display-name: moustache04
+  id: '0704'
+- cost: 5.55
+  display-name: moustache05
+  id: '0705'
+- cost: 5.55
+  display-name: moustache06
+  id: '0706'
+- cost: 5.55
+  display-name: Autofix
+  id: '1001'
+- cost: 5.55
+  display-name: Lomo
+  id: '1002'
+- cost: 5.55
+  display-name: Newspaper
+  id: '1003'
+- cost: 5.55
+  display-name: Warm
+  id: '1004'
+- cost: 5.55
+  display-name: Cool
+  id: '1005'
+- cost: 5.55
+  display-name: Bright
+  id: '1006'
+- cost: 5.55
+  display-name: Saturate
+  id: '1007'
+- cost: 5.55
+  display-name: Sharpen
+  id: '1008'
+- cost: 5.55
+  display-name: Sepia
+  id: '1009'
+- cost: 5.55
+  display-name: Contrast
+  id: '1010'
+- cost: 5.55
+  display-name: Cross Process
+  id: '1011'
+- cost: 5.55
+  display-name: Fish Eye
+  id: '1012'
+- cost: 5.55
+  display-name: Posterize
+  id: '1013'
+- cost: 5.55
+  display-name: email
+  id: '2000'
+- cost: 2.775
+  display-name: TriviaAttack_remove1
+  id: '3001'
+- cost: 5.55
+  display-name: TriviaAttack_remove2
+  id: '3002'
+presto-player-accounts:
+  levelup-enabled: false
+  total-milestones-to-gold: 2
+  total-milestones-to-platinum: 4
+  total-milestones-to-silver: 1
+  total-milestones-to-unlimited: 8
+tokens-model:
+  confirm-credit-purchase: true
+  credit-to-dollar-exchange-rate: 2
+  dialog-header-text-middle: Keep the fun going!
+  dialog-header-text-start: Start the fun!
+  header-text: Token Packs on SALE today!
+  id: token
+  initial-balance: 0
+  maximum-charge: 1000.0
+  packs:
+  - bonus-tokens-percent: 0.0
+    display-in-upsell: true
+    label: Quick Play
+    message:
+      text: BEST DEAL!
+      visible: false
+    name: Presto Credits
+    pos-id: '4000'
+    price: 0.99
+  - bonus-tokens-percent: 19.21
+    display-in-upsell: true
+    label: Casual Play
+    message:
+      text: BEST DEAL!
+      visible: false
+    name: Presto Credits
+    pos-id: '4001'
+    price: 2.99
+  - bonus-tokens-percent: 74.62
+    display-in-upsell: true
+    highlight: false
+    label: POWER Play
+    max-charge: 4.72
+    message:
+      text: BEST DEAL!
+      visible: false
+    name: Presto Credits
+    pos-id: '4002'
+    price: 4.99
+    unlimited: true
+trivia-attack-buttons:
+  game-auto-start-time: '30'
+  game-round-time: '60'
+unlock-disney-pass:
+  id: unlock-disney
+  maximum-charge: 2.99
+  name: Disney Games
+  num-free-games: 0
+  pos-id: 34564
+unlock-elc-model:
+  id: unlock-elc
+  maximum-charge: 1.99
+  name: Presto Games
+  num-free-games: 0
+  pos-id: 36047
